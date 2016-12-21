@@ -20,5 +20,14 @@ Consider Pluto's first level:
 In this case it would be faster to super-flutter upwards twice and then bounce off the apex of the diamond, rather than just letting the ship fall downwards.
 
 
+## Aim for the center of the exit portal
 
+This seems kind of obvious, but it should still be explained.
 
+Exit portals act like a gravity well if the ship is close enough to them and will try to pull the ship into it. Problems with this happen when you're entering a portal on a side-angle. If entering on a side-angle, the gravitational pull will swing the ship around the exit goal a little bit before pulling it into itself. This can waste anywhere between a few milliseconds to around 0.2 seconds depending on how bad the swing is.
+
+The following webm shows the gravity well effect.
+<video controls muted>
+  <source src="{{ site.url }}/videos/ExitPortalGravity.webm" type="video/webm">
+  Browser does not support the video tag
+</video>

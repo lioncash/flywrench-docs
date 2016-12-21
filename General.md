@@ -24,7 +24,7 @@ In this case it would be faster to super-flutter upwards twice and then bounce o
 
 This seems kind of obvious, but it should still be explained.
 
-Exit portals act like a gravity well if the ship is close enough to them and will try to pull the ship into it. Problems with this happen when the ship is entering a portal on a side-angle. If entering on a side-angle, the gravitational pull will swing the ship around the exit goal a little bit before pulling it into itself. This can waste anywhere between a few milliseconds to around 0.2 seconds depending on how wide the swing is.
+Exit portals act like a gravity well if the ship is close enough to them—they pull the ship into themselves. Problems with this occur when the ship is entering a portal on a side-angle. If entering on a side-angle, the gravitational pull will swing the ship around the exit portal a little bit before pulling it into itself. This can waste anywhere between a few milliseconds to around 0.2 seconds depending on how wide the swing is.
 
 The following webm shows the gravity well effect.
 <video controls muted>

@@ -17,7 +17,7 @@ Consider Pluto's first level:
 
 ![Pluto - Level 1]({{ site.url }}/images/Level1.png)
 
-In this case it would be faster to super-flutter upwards twice and then bounce off the apex of the diamond, rather than just let the ship fall downwards.
+In this case it would be faster to super-flutter upwards twice and then bounce off the apex of the diamond, rather than just letting the ship fall downwards.
 
 
 

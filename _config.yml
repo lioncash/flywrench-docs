@@ -1,0 +1,13 @@
+# Site settings
+baseurl: "" # the subpath of your site, e.g. /blog
+description: Flywrench resources
+encoding: "utf-8"
+github_username: Lioncash
+title: Flywrench Stuff
+twitter_username: Lioncache
+url: "https://lioncash.github.io/flywrench-docs" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input:  GFM

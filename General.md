@@ -34,7 +34,7 @@ Compare the time differences between performing the level by just allowing the s
   </div>
 </div>
 
-
+<br>
 ## Aim for the center of the exit portal
 
 This seems kind of obvious, but it should still be explained.

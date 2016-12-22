@@ -35,6 +35,11 @@ Compare the time differences between performing the level by just allowing the s
 </div>
 
 <br>
+
+## The timer is kind of quirky
+
+If you fullscreen the left video above and slowly move the playback slider across between 0:00–0:01, the timer goes from 00:00:00.00 to 00:00:00.80, and then drops back to 00:00:00.13. This also similarly occurs between 0:01–0:02. If you think a time you've gotten for a level is kind of bad by a few milliseconds, wait until the next level loads and see if the timer self-corrects itself before starting a run over again.
+
 ## Aim for the center of the exit portal
 
 This seems kind of obvious, but it should still be explained.

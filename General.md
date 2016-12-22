@@ -47,7 +47,6 @@ This seems kind of obvious, but it should still be explained.
 Exit portals act like a gravity well if the ship is close enough to them—they pull the ship into themselves. Problems with this occur when the ship is entering a portal on a side-angle. If entering on a side-angle, the gravitational pull will cause the ship to drift around the portal a little bit before entering it. This can waste anywhere between a few milliseconds to around 0.2 seconds depending on how wide the drift is.
 
 The following webm shows the gravity well effect.
-<video controls muted>
-  <source src="{{ site.url }}/videos/ExitPortalGravity.webm" type="video/webm">
+<video src="{{ site.url }}/videos/ExitPortalGravity.webm" controls muted>
   Browser does not support the video tag
 </video>

@@ -19,6 +19,21 @@ Consider Pluto's first level:
 
 In this case it would be faster to super-flutter upwards twice and then bounce off the apex of the diamond, rather than just letting the ship fall downwards.
 
+Compare the time differences between performing the level by just allowing the ship to fall into the portal, versus using 'bounce strats':
+
+<div class="video-box">
+  <div class="video-box-left">
+    <video src="{{ site.url }}/videos/Pluto1RegularRoute.webm" controls muted>
+      Your browser does not support the video tag
+    </video>
+  </div>
+  <div class="video-box-right">
+    <video src="{{ site.url }}/videos/Pluto1FastRoute.webm" controls muted>
+      Your browser does not support the video tag
+    </video>
+  </div>
+</div>
+
 
 ## Aim for the center of the exit portal
 

@@ -240,3 +240,19 @@
         }
     }
 }
+
+.video-box {
+    display: flex;
+
+    .video-box-left {
+        video {
+            width: 100%;
+        }
+    }
+
+    .video-box-right {
+        video {
+            width: 100%;
+        }
+    }
+}

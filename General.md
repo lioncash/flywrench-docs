@@ -17,7 +17,7 @@ Consider Pluto's first level:
 
 ![Pluto - Level 1]({{ site.url }}/images/PlutoLevel1.png)
 
-In this case it would be faster to super-flutter upwards twice and then bounce off the apex of the diamond, rather than just letting the ship fall downwards.
+In this case it would be faster to super flap upwards twice and then bounce off the apex of the diamond, rather than just letting the ship fall downwards.
 
 Compare the time differences between performing the level by just allowing the ship to fall into the portal, versus using 'bounce strats':
 
@@ -39,7 +39,7 @@ Similarly, when the ship spawns into a level where the exit portal is to the sid
 
 ![Neptune - Level One]({{ site.url }}/images/NeptuneLevel1.png)
 
-In this case, super-fluttering up twice from the spawn point and bouncing off the level boundary close to the vertex can help propel the ship slightly faster than just moving the ship right. The following webms are a comparison between moving right and bouncing off level geometry:
+In this case, super flapping up twice from the spawn point and bouncing off the level boundary close to the vertex can help propel the ship slightly faster than just moving the ship right. The following webms are a comparison between moving right and bouncing off level geometry:
 
 <div class="video-box">
   <div class="video-box-left">

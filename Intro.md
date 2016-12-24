@@ -44,4 +44,4 @@ When the down direction is held and flutter state is entered, the ship will not 
 
 In this state, the ship rotates on its center and begins to fall downwards or arc downwards depending on how the ship was moving. This state will cause the ship to bounce if it hits yellow level geometry — picture a bouncy ball hitting a wall, but replace the bouncy ball with an interstellar ship. Significance of a bounce depends on what direction a surface was hit, and the speed of the ship on contact.
 
-While in this state, moving in any direction will not move the ship itself, but will influence bounces slightly. It also allows the ship to pass through green barriers.
+While in this state, moving in any direction will not move the ship itself, but will influence bounces very slightly (or at least appears to). It also allows the ship to pass through green barriers.
